@@ -8,7 +8,7 @@ It has two scripts:
 - **1_clock** give the angle between the minute and hour hand of a single clock.
 - **2_clcoks** gives the angle between the minute hands of two different clocks.
 
-## Instalation
+## Installation
 
 Clone the repo
 git clone https://github.com/FujinNiazi/clock-angledetection.git
@@ -28,7 +28,7 @@ The following result was generated using the *clock1* example in the data folder
 
 <img width="997" alt="test output" src="https://github.com/user-attachments/assets/9431efc4-8800-4992-8f58-8a0719062b61">
 
-Note that the limits for the *Canny* and *Hough Line Transform* may need adjusment depending on the type of clock and its size. 
+Note that the limits for the *Canny* and *Hough Line Transform* may need adjustment depending on the type of clock and its size. 
 
 ## License
 This program is licensed under the Apache 2.0 License.
